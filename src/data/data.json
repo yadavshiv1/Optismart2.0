@@ -1,0 +1,177 @@
+{
+  "Header": {
+    "title": "Your Comprehensive Financial Services Partner Nationwide",
+    "paragraph": "we specialize in providing a wide array of financial services tailored to meet the diverse needs of individuals and businesses across India"
+  },
+  "About": {
+    "paragraph": "At OPTISMART, we specialize in providing a wide array of financial services tailored to meet the diverse needs of individuals and businesses across India. From income tax returns and GST registration to accounting outsourcing and loan services, we are committed to simplifying financial complexities and ensuring compliance with regulatory requirements. Our expert team offers assistance in claiming old income tax refunds, reconciliation of GSTR 2A/2B, TDS return filing, and preparation of meticulous financial statements. Whether you're a startup, SME, or a large corporation, we cater to all with services like Udyam and Gumasta registrations, government grant facilitation, and a variety of business and personal loans. With a pan-India presence and a dedication to excellence, OPTISMART is your trusted partner for holistic financial solutions, ensuring your financial well-being and growth aspirations are always supported.",
+    "Why": [
+      "Expertise Across Diverse Financial Services",
+      "Nationwide Coverage",
+      "Compliance and Accuracy"
+    ],
+    "Why2": [
+      "Experienced Team",
+      "Customer-Centric Approach",
+      "Tailored Solutions"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-money",
+      "name": "Comprehensive Tax and Financial Compliance Solutions",
+      "text": "Expert assistance in tax filing, income tax returns, and claiming old IT refunds."
+    },
+    {
+      "icon": "fa fa-pencil-square-o",
+      "name": "Professional Accounting Services",
+      "text": "Outsourced accounting solutions tailored to your business needs."
+    },
+    {
+      "icon": "fa fa-check-square-o",
+      "name": "Registration and Compliance Support",
+      "text": "Efficient Udyam and Gumasta registrations to ensure regulatory compliance."
+    },
+    {
+      "icon": "fa fa-credit-card",
+      "name": "Diverse Loan Services",
+      "text": "Extensive range of loan services including business, MSME, personal loans, and more.Facilitation of government grants and comprehensive loan solutions across India."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Strategic Financial Management",
+      "text": "IT manpower outsourcing to optimize operational efficiency and reduce costs."
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Nationwide Service Coverage",
+      "text": "Serving clients across Pan India with a commitment to quality and client satisfaction in all financial services provided."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Handled my tax filings seamlessly and helped me claim an old refund efficiently. Highly recommend!\"",
+      "name": "Dhrup Yadav"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Their team managed our GST registration and accounting needs with precision. Very satisfied with their services!\"",
+      "name": "Ashish Sharma"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Provided excellent assistance in preparing financial statements. \"Their attention to detail is commendable!\"",
+      "name": "Krishna Singh"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Helped us secure a business loan hassle-free. Professional and prompt service!\"",
+      "name": "Rahul Kumar"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Guided us through Udyam registration smoothly. Knowledgeable and responsive team!\"",
+      "name": "Ankit Gupta"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"They ensure our compliance needs are met consistently. Dependable and proactive service!\"",
+      "name": "Rup Yadav"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/founder.jpeg",
+      "name": "Shiv Gupta",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/founder.jpeg",
+      "name": "John Doe",
+      "job": "Director"
+    }
+  ],
+  "Contact": {
+    "address_1": "45,Hi Life Mall",
+    "address_2":"Near Santacruz Station (W)",
+    "address_3":"Mumbai- 400054",
+    "phone_1": "+91 8898585681",
+    "phone_2": "+91 8879062168",
+    "phone_3": "+91 9819583248",
+    "email_1": "info@smartworkent.com",
+    "email_2": "shivkg11@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Financial Advisory Services",
+      "text": "Personalized financial advice and consultancy to optimize financial strategies."
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "Compliance Assurance",
+      "text": "Regular updates and proactive compliance management to keep your business compliant with changing regulations."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Sector-specific Expertise",
+      "text": "Tailored financial solutions for specific sectors such as IT, manufacturing, healthcare, etc., to address industry-specific challenges."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Client Education Initiatives",
+      "text": "Workshops, webinars, and resources to educate clients on financial best practices and updates in regulations."
+    }
+  ]
+}
